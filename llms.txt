@@ -1,0 +1,40 @@
+# Seoungbeom Na (나승범)
+
+> Assistant Professor of Smart Architecture and Civil Engineering at Hanyeong University (Yeosu, Korea). Research on real options–based feasibility, quantitative risk analysis, renewable energy development, and smart construction.
+
+## About
+Ph.D. in Construction Management (Chosun University, 2025). Applies real options theory and Monte Carlo–based risk analysis to the economic feasibility of renewable energy and large-scale construction projects. Since Aug 2026, Head of the Planning Team at Hanyeong University.
+
+## Research areas
+- Economic feasibility assessment and investment valuation (real options; renewable energy, energy plants, and unconventional oil and gas development)
+- Quantitative risk analysis (construction cost volatility, country risk, causal modeling)
+- Uncertainty quantification and stochastic simulation (stochastic price processes, Monte Carlo methods)
+- Smart construction (drone/LiDAR 3D mapping, airborne bathymetric LiDAR, digital transformation)
+
+## Selected publications (SCI, first author on all six)
+- Digital Transformation Strategies: A Technology Roadmap in the Korean Water Industry. Sustainability 18(13):6745, 2026. https://doi.org/10.3390/su18136745
+- Real Options-Based Feasibility Evaluation of Offshore Wind Farm Development in Korea's Idle Coastal Areas. Energies 18(18):4976, 2025. https://doi.org/10.3390/en18184976
+- Modeling the Causal Relationships of Country Risk Factors Using Expert Experience and Intuition-based Sensing Data. Sensors and Materials 37(9):3929-3947, 2025. https://doi.org/10.18494/SAM5596
+- Economic Feasibility and Strategic Planning for Floating Solar Power Plants in Korea: A Real Options Approach. Sustainability 17(1):137, 2025. https://doi.org/10.3390/su17010137
+- Analyzing Spatial Differences in Construction Risk Management. Sensors and Materials 36(9):4043-4059, 2024. https://doi.org/10.18494/SAM5349
+- Real Options Analysis for Land and Water Solar Deployment in Idle Areas of Agricultural Dam. Sustainability 14(4):2297, 2022. https://doi.org/10.3390/su14042297
+
+## Accepted (in press)
+- How Large Should Railway Solar Be? A Real Options Analysis of Scale Flexibility under SMP and REC Uncertainty. Energies (accepted, in press).
+
+## Under review
+- Exploratory Regional Comparison of Country Risk Patterns in International Construction (KSCE).
+- Robustness Maps for Hydrogen Delivery Mode Selection under Construction Cost Uncertainty: Korean Hydrogen Corridors (ASCE).
+
+## Case pages (detailed findings per article)
+- /case-railway-solar.html  Railway solar, scale flexibility under SMP and REC uncertainty (Energies, in press)
+- /case-offshore-wind.html  Geumil offshore wind 600 MW: NPV -313.7M USD, B/C 0.87, expansion option 69.6M USD, REC weight breakeven 3.01
+- /case-floating-solar.html Gunsan floating solar 100 MW: NPV +11.86M USD, B/C 1.1, expansion option 93.18M USD
+- /case-agrivoltaics.html   Naju agricultural dam 1 MW land + 35 MW water: NPV -6.67M USD, abandonment option adds 44.83M USD
+- /case-country-risk.html   PLS-SEM on 93 expert responses: environmental risk has the largest direct effect on cost overrun (beta = 0.360)
+- /case-spatial-risk.html   21 country risk factors compared across the Middle East, Asia, and the Arctic
+- /case-water-dx.html       Water industry roadmap from 58 expert responses: sector priority is natural environment management and prediction, water supply and customer service, water intake and resource facilities, water purification
+
+## Contact
+Google Scholar: https://scholar.google.com/citations?user=Vy5xVh4AAAAJ
+Email: nsb0130@hanyeong.ac.kr — Office: +82-61-650-4467 — Hanyeong University, Yeosu, Jeonnam, Korea.
