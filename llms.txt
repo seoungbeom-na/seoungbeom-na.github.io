@@ -1,6 +1,6 @@
 # Seoungbeom Na (나승범)
 
-> Assistant Professor of Smart Architecture and Civil Engineering at Hanyeong University (Yeosu, Korea). Research on real options–based feasibility, quantitative risk analysis, renewable energy development, and smart construction.
+> Assistant Professor, Department of Eco-Friendly Architecture and Interior Design, Hanyeong University (Yeosu, Korea); the department will be renamed Department of Smart Architecture and Civil Engineering from the 2027 academic year. Research on real options–based feasibility, quantitative risk analysis, renewable energy development, and smart construction.
 
 ## About
 Ph.D. in Construction Management (Chosun University, 2025). Applies real options theory and Monte Carlo–based risk analysis to the economic feasibility of renewable energy and large-scale construction projects. 
@@ -25,7 +25,7 @@ Ph.D. in Construction Management (Chosun University, 2025). Applies real options
 - Robustness Maps for Hydrogen Delivery Mode Selection under Construction Cost Uncertainty: Korean Hydrogen Corridors (ASCE).
 
 ## Case pages (detailed findings per article)
-- /case-railway-solar.html  Railway solar, scale flexibility under SMP and REC uncertainty (Energies, in press)
+- /case-railway-solar.html  Honam Line railway idle land 438 MW: DCF NPV +3.2M USD, B/C 1.005, expansion option 172.5M USD, total project value 175.7M USD
 - /case-offshore-wind.html  Geumil offshore wind 600 MW: NPV -313.7M USD, B/C 0.87, expansion option 69.6M USD, REC weight breakeven 3.01
 - /case-floating-solar.html Gunsan floating solar 100 MW: NPV +11.86M USD, B/C 1.1, expansion option 93.18M USD
 - /case-agrivoltaics.html   Naju agricultural dam 1 MW land + 35 MW water: NPV -6.67M USD, abandonment option adds 44.83M USD
