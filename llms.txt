@@ -7,11 +7,12 @@ Ph.D. in Construction Management (Chosun University, 2025). Applies real options
 
 ## Research areas
 - Economic feasibility assessment and investment valuation (real options; renewable energy, energy plants, and unconventional oil and gas development)
-- Quantitative risk analysis (construction cost volatility, country risk, causal modeling)
+- Quantitative risk analysis (construction cost volatility, country risk, causal modeling, robustness of infrastructure mode selection)
 - Uncertainty quantification and stochastic simulation (stochastic price processes, Monte Carlo methods)
 - Smart construction (drone/LiDAR 3D mapping, airborne bathymetric LiDAR, digital transformation)
 
-## Selected publications (SCI, first author on all seven)
+## Selected publications (SCI, first author on all eight)
+- Robustness Maps for Hydrogen Delivery Mode Selection Under Construction Cost Uncertainty: Application to Korean Hydrogen Corridors. Energies 2026, 19, 4111. https://doi.org/10.3390/en19174111
 - How Large Should Railway Solar Be? A Real Options Analysis of Scale Flexibility under SMP and REC Uncertainty. Energies 2026, 19, 3890. https://doi.org/10.3390/en19163890
 - Digital Transformation Strategies: A Technology Roadmap in the Korean Water Industry. Sustainability 18(13):6745, 2026. https://doi.org/10.3390/su18136745
 - Real Options-Based Feasibility Evaluation of Offshore Wind Farm Development in Korea's Idle Coastal Areas. Energies 18(18):4976, 2025. https://doi.org/10.3390/en18184976
@@ -22,9 +23,9 @@ Ph.D. in Construction Management (Chosun University, 2025). Applies real options
 
 ## Under review
 - Exploratory Regional Comparison of Country Risk Patterns in International Construction (KSCE).
-- Robustness Maps for Hydrogen Delivery Mode Selection under Construction Cost Uncertainty: Korean Hydrogen Corridors (ASCE).
 
 ## Case pages (detailed findings per article)
+- /case-hydrogen-delivery.html  Hydrogen delivery mode robustness maps, 10-500 km and 1000-1,000,000 t/yr grid: repurposing robust in 162 of 196 conditions, new pipeline justified from 19,191 t/yr at 150 km, LH2 robust share moves from 1% to 72.4% with the liquefaction cost attribution boundary
 - /case-railway-solar.html  Honam Line railway idle land 438 MW: DCF NPV +3.2M USD, B/C 1.005, expansion option 172.5M USD, total project value 175.7M USD
 - /case-offshore-wind.html  Geumil offshore wind 600 MW: NPV -313.7M USD, B/C 0.87, expansion option 69.6M USD, REC weight breakeven 3.01
 - /case-floating-solar.html Gunsan floating solar 100 MW: NPV +11.86M USD, B/C 1.1, expansion option 93.18M USD
